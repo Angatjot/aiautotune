@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Press+Start+2P&display=swap');
+
+* { 
+  font-family: 'IBM Plex Mono', monospace;
+  box-sizing: border-box;
+}
